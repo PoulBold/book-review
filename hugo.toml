@@ -1,7 +1,7 @@
 baseURL = "https://book-review.biz/"
 languageCode = "en-us"
 title = "Book Review BIZ"
-theme = "FixIt"
+theme = "Mainroad"
 
 [pagination]
 pagerSize = 10
