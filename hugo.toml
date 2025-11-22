@@ -1,0 +1,13 @@
+baseURL = "https://book-review.biz/"
+languageCode = "en-us"
+title = "Book Review BIZ"
+theme = "FixIt"
+
+[pagination]
+pagerSize = 10
+
+[taxonomies]
+category = "categories"
+tag      = "tags"
+
+buildFuture = true
